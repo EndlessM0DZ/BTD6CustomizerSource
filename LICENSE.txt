@@ -1,0 +1,2 @@
+You can create your own tool with the files from this tool, but must include the rightful owner of the file in credits. Every "programming" file in this application was created by Ty Morrison, EXCEPT SteamUtils.cs which was created by Danny Parker. All images in this program are fair use.
+Use at your own risk!
