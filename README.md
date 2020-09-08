@@ -4,6 +4,7 @@ special thanks to BowDown097, Danny Parker, and Pro Gamer HD
 BowDown097 Helped with Suggestions
 I used Danny Parker's Steam Directory Finder/Game Directory Finder
 Pro Gamer HD helped make the auto updater for the few mods that are in experimental and changing speed from a modified speed file.
+This application's GUI is inspired by BTD6 Mod Manager
 ------------------------------------------------------------------------------------------
 Info:
 	You must extract the file and keep them together! Make sure you have a non-modified GameAssembly.dll in the Game Directory the first
